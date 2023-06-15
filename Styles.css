@@ -108,9 +108,9 @@ header {
 
     .container-right {
         display: block;
-        height: auto;
+        height: 100vh;
         width: 100%;
-        position: ;
+        position: absolute;
         padding: 40px;
     }
 
